@@ -1,0 +1,29 @@
+.navbar-dark{
+    background-color: #4C0BB5;
+
+}
+.jumbotron-fluid{
+    background-color: #A574F4;
+}
+footer{
+  background-color: #A889DA;
+}
+.carousel-item{
+    background-color: blueviolet;
+    height: 40vh;
+}
+.carousel-item img{
+    height: 40vh;
+}
+#carouselButton {
+right:0px;
+position: absolute;
+bottom: 0px;
+z-index: 1;
+}
+.modal-header{
+    background-color:#4C0BB5 ;
+}
+.modal-body{
+    background-color: #C1A3F1; 
+}
